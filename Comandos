@@ -1,0 +1,27 @@
+MARIADB (MYSQL)
+
+curl -LsS https://downloads.mariadb.com/MariaDB/mariadb_repo_setup | sudo bash -s -- --skip-maxscale (REMOVE O MAXSCALE - NÃO DEU CERTO)
+sudo apt-get install mariadb-server mariadb-client mariadb-backup
+sudo  mysql_secure_installation (CONFIGURAR O ACESSO ROOT)
+mysql -u root -p -h localhost (CONECTAR AO MARIA, USUÁRIO ROOT)
+
+COMANDOS SQL
+CREATE DATABASE IF NOT EXISTS test;
+use test;
+SHOW DATABASES;
+
+sudo systemctl stop mariadb
+
+Outra maneira:
+sudo apt install mariadb-client-core-10.5
+
+
+WorkBench
+sudo apt install mysql-workbench
+#########################################################################################
+
+COMANDOS:
+
+npm init
+
+npm install --save express

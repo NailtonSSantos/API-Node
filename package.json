@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Aula de Node, Rest-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NailtonSSantos/API-Node.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "sql"
+  ],
+  "author": "Nailton Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NailtonSSantos/API-Node/issues"
+  },
+  "homepage": "https://github.com/NailtonSSantos/API-Node#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
