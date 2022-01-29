@@ -35,3 +35,13 @@ Instalei o Postman para testar Rotas
 
 Instalei o Nodemon
 npm intall --save-dev nodemon
+
+Tratamento de erro nas rotas
+
+Instalação do body-parser
+
+CORS - CROSS ORIGIN RESOURCE SHARING
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS/Errors
+
+
+
