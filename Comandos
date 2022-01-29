@@ -25,3 +25,10 @@ COMANDOS:
 npm init
 
 npm install --save express
+
+
+Criei o server.js
+Criei o app.js
+Importa a app para o Server
+
+Instalei o Postman para testar Rotas
