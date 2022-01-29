@@ -32,3 +32,6 @@ Criei o app.js
 Importa a app para o Server
 
 Instalei o Postman para testar Rotas
+
+Instalei o Nodemon
+npm intall --save-dev nodemon
